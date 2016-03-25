@@ -59,8 +59,8 @@ if (isset($_POST['action'])) {
 ?>
     <body>
 		<ul>
-				<li>Exemple de Consumer Key : portail-de-donnees-demo-da9858b3efe14f3da31e8d4188fe5bbb</li>
-				<li>Exemple de Consumer Secret : Bf0uIuFdFMI6jsqrpY52vNkyu3g4yCdqDgqvepSvap4pJc6pSe6dV1JmnmC7y0TR</li>
+				<li>Exemple de Consumer Key : demo-ask-for-your-app-client</li>
+				<li>Exemple de Consumer Secret : demo-ask-for-your-app-secret</li>
 		</ul>
 		
 		<form action="test-oAuth.php" method="post">

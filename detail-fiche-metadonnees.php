@@ -106,8 +106,8 @@ function convertirPays($quel){
 }
 
 // INFORMATIONS TRANSMISES PAR ISOGEO POUR ACCÉDER À L'API
-$consumer_key="portail-de-donnees-demo-da9858b3efe14f3da31e8d4188fe5bbb";
-$consumer_secret="Bf0uIuFdFMI6jsqrpY52vNkyu3g4yCdqDgqvepSvap4pJc6pSe6dV1JmnmC7y0TR";
+$consumer_key="demo-ask-for-your-app-client";
+$consumer_secret="demo-ask-for-your-app-secret";
 $url_api="https://id.api.isogeo.com/oauth/token";
 
 // RÉCUPÉRATION DU TOKEN
