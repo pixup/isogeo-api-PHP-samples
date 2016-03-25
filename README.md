@@ -1,5 +1,5 @@
 # isogeo-api-PHP-samples
-Exemple d'utilisation de l'API REST Isogeo en PHP
+Exemples d'utilisation de l'API REST Isogeo en PHP
 
 ## test-token.php
 Permet de tester le Consumer Key et le Consumer Secret fournis par Isogeo et de vérifier que la récupération du token se passe correctement.
